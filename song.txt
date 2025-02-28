@@ -6,11 +6,9 @@ New chapter!
 
 Good night!
 
-<<<<<<< HEAD
-some changes for today!
-=======
+
 Have a good day!
 
 For a tag!
-Finish!
->>>>>>> 421324c032a6d3b8c78a74497102869fe1841865
+Finish for today!
+
